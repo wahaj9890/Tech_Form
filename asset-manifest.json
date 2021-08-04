@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tech_Form/static/css/main.dcd784a0.chunk.css",
+    "main.js": "/Tech_Form/static/js/main.8bbdcdc1.chunk.js",
+    "main.js.map": "/Tech_Form/static/js/main.8bbdcdc1.chunk.js.map",
+    "runtime-main.js": "/Tech_Form/static/js/runtime-main.806592d1.js",
+    "runtime-main.js.map": "/Tech_Form/static/js/runtime-main.806592d1.js.map",
+    "static/css/2.e28d13cf.chunk.css": "/Tech_Form/static/css/2.e28d13cf.chunk.css",
+    "static/js/2.5ad34b31.chunk.js": "/Tech_Form/static/js/2.5ad34b31.chunk.js",
+    "static/js/2.5ad34b31.chunk.js.map": "/Tech_Form/static/js/2.5ad34b31.chunk.js.map",
+    "static/js/3.3800dab9.chunk.js": "/Tech_Form/static/js/3.3800dab9.chunk.js",
+    "static/js/3.3800dab9.chunk.js.map": "/Tech_Form/static/js/3.3800dab9.chunk.js.map",
+    "index.html": "/Tech_Form/index.html",
+    "static/css/2.e28d13cf.chunk.css.map": "/Tech_Form/static/css/2.e28d13cf.chunk.css.map",
+    "static/css/main.dcd784a0.chunk.css.map": "/Tech_Form/static/css/main.dcd784a0.chunk.css.map",
+    "static/js/2.5ad34b31.chunk.js.LICENSE.txt": "/Tech_Form/static/js/2.5ad34b31.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Tech_Form/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/Tech_Form/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.806592d1.js",
+    "static/css/2.e28d13cf.chunk.css",
+    "static/js/2.5ad34b31.chunk.js",
+    "static/css/main.dcd784a0.chunk.css",
+    "static/js/main.8bbdcdc1.chunk.js"
+  ]
+}
