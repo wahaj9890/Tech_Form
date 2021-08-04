@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+button:disabled,
+button[disabled] {
+  border: 1px solid #999999 !important;
+  background-color: #cccccc !important;
+  color: #666666 !important;
+  cursor: not-allowed !important;
+}
+table {
+  box-shadow: 0 5px 5px grey;
+}
+.delete {
+  cursor: pointer;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
