@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tech_Form/static/css/main.dcd784a0.chunk.css",
-    "main.js": "/Tech_Form/static/js/main.688f13eb.chunk.js",
-    "main.js.map": "/Tech_Form/static/js/main.688f13eb.chunk.js.map",
+    "main.js": "/Tech_Form/static/js/main.ceb3697d.chunk.js",
+    "main.js.map": "/Tech_Form/static/js/main.ceb3697d.chunk.js.map",
     "runtime-main.js": "/Tech_Form/static/js/runtime-main.806592d1.js",
     "runtime-main.js.map": "/Tech_Form/static/js/runtime-main.806592d1.js.map",
     "static/css/2.e28d13cf.chunk.css": "/Tech_Form/static/css/2.e28d13cf.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.e28d13cf.chunk.css",
     "static/js/2.5ad34b31.chunk.js",
     "static/css/main.dcd784a0.chunk.css",
-    "static/js/main.688f13eb.chunk.js"
+    "static/js/main.ceb3697d.chunk.js"
   ]
 }
