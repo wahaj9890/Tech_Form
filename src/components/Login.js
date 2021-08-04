@@ -28,17 +28,24 @@ const Login = () => {
 
   const onSubmitHandler = (e) => {
     e.preventDefault();
-    const userDetails = userData.filter(
-      (user) => user.email === userLogin.email
-    );
-    console.log(userDetails);
-    if (userDetails.length != 0) {
-      ctx.onLogout();
-      history.push(`DashBoard/${userDetails[0].id}/${userDetails[0].type}`);
+    if (userData !== null) {
+   
+      const userDetails = userData.filter(
+        (user) => user.email === userLogin.email
+      );
+      
+      if (userDetails.length != 0) {
+        ctx.onLogout();
+        history.push(`DashBoard/${userDetails[0].id}/${userDetails[0].type}`);
+      } else {
+        alert("Please Enter Valid Credential");
+      }
     } else {
-      alert("Please Enter Valid Credential");
+      alert("Please SignUp first");
+      history.push("/SignUp");
     }
   };
+
   return (
     <section className="p-5">
       <div className="container">
